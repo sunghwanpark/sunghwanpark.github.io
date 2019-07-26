@@ -1,8 +1,10 @@
 ---
 title: "Project"
 date: 2019-04-30 23:06:00 -0400
-categories: project
+categories: [About]
 ---
+
+[My Github Gist](https://gist.github.com/sunghwanpark)
 
 그동안의 경력들을 에버노트로 상세히 정리하였습니다.
 
