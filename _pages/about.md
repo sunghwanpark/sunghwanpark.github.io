@@ -1,7 +1,7 @@
 ---
-title: "Project"
+permalink: /about/
+title: "About"
 date: 2019-04-30 23:06:00 -0400
-categories: [About]
 ---
 
 [My Github Gist](https://gist.github.com/sunghwanpark)

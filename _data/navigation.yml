@@ -10,11 +10,11 @@ sidebar-unity:
   - title: "Unity"
     children:
     - title: "Unity"
-      url: "/tags/#Unity"
+      url: "/categories/Unity/"
 
 # sidebar Flutter
 sidebar-flutter:
   - title: "Flutter"
     children:
     - title: "Flutter"
-      url: "/tags/#Flutter"
+      url: "/categories/Flutter/"
