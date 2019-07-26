@@ -285,8 +285,8 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: docs
+      path: "_posts/Unity"
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -295,4 +295,28 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "docs"
+        nav: "sidebar-unity"
+  
+  - scope:
+      path: "_posts/Flutter"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "sidebar-flutter"
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
