@@ -287,25 +287,27 @@ compress_html:
 # Defaults
 defaults:
   # _posts
+  
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
   - scope:
       path: ""
       type: sidebar
     values:
       layout: single
-      read_time: true
+      read_time: false
       author_profile: true
       share: true
       comments: false
       sidebar:
         nav: "sidebar"
-
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: # true
-#      share: true
-#      related: true
