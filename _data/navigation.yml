@@ -5,16 +5,11 @@ main:
   - title: "Category"
     url: "/categories"
 
-# sidebar Unity
-sidebar-unity:
-  - title: "Unity"
+# sidebar
+sidebar:
+  - title: "Category"
     children:
     - title: "Unity"
       url: "/categories/Unity/"
-
-# sidebar Flutter
-sidebar-flutter:
-  - title: "Flutter"
-    children:
     - title: "Flutter"
       url: "/categories/Flutter/"

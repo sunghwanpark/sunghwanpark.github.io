@@ -285,30 +285,11 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_posts/Unity"
-      type: posts
+      path: ""
+      type: sidebar
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
       sidebar:
-        nav: "sidebar-unity"
-  
-  - scope:
-      path: "_posts/Flutter"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-      sidebar:
-        nav: "sidebar-flutter"
+        nav: "sidebar"
 
   - scope:
       path: ""
