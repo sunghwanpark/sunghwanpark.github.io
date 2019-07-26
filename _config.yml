@@ -111,13 +111,13 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "programmer"
   location         : "Pangyo"
-  email            :
+  email            : deicide17@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "LinkdedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EB%B0%95-017601a4/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -286,7 +286,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: docs
     values:
       layout: single
       author_profile: true
@@ -294,3 +294,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
