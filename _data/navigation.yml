@@ -13,3 +13,5 @@ sidebar:
       url: "/categories/Unity/"
     - title: "Flutter"
       url: "/categories/Flutter/"
+    - title: "Jenkins"
+      url: "/categories/Jenkins/"
