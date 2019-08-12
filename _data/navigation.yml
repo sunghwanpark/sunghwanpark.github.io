@@ -15,3 +15,5 @@ sidebar:
       url: "/categories/Flutter/"
     - title: "Jenkins"
       url: "/categories/Jenkins/"
+    - title: "C#"
+      url: "/categories/CSharp/"
