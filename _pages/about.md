@@ -10,6 +10,11 @@ title: "About Me"
 
 [My Github Gist](https://gist.github.com/sunghwanpark)
 
+## 회사 다니기 전에 했던 것들.
+- [DX9을 사용하여 만든 맵툴](https://youtu.be/fokgl7lcts0)
+- [Unity를 사용하여 만든 골프게임](https://youtu.be/jrEh0xRu8-o)
+#### 마켓에 올렸지만 업데이트 안해서 내려짐...
+
 ## 경력
 
 ### 웹젠온네트
