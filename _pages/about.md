@@ -33,3 +33,5 @@ title: "About Me"
 ### 크래프톤(블루홀)
 #### 2018.04 ~
 - [PC MMORPG A:IR 모바일 프로젝트 클라이언트 개발](https://www.evernote.com/shard/s657/sh/1da24e1c-d271-4f6d-aff5-9436788ec072/6360bb3bbbc8e306e6d08ff76f84f266)
+#### 2019.09 ~
+- ALT팀 크로스플랫폼 UE4 MMORPG 클라이언트 개발
