@@ -9,29 +9,3 @@ title: "About Me"
 특별한 사람이 되고픈 인간.
 
 [My Github Gist](https://gist.github.com/sunghwanpark)
-
-## 회사 다니기 전에 했던 것들.
-- [DX9을 사용하여 만든 맵툴](https://youtu.be/fokgl7lcts0)
-- [Unity를 사용하여 만든 골프게임](https://youtu.be/jrEh0xRu8-o)
-#### 마켓에 올렸지만 업데이트 안해서 내려짐...
-
-## 경력
-
-### 웹젠온네트
-#### 2013.03 ~ 2015.06
-- [샷온라인 클라이언트 개발](https://www.evernote.com/shard/s657/sh/4c6315d1-3b4b-4be2-b256-7c907f10b495/2820409e70651a3df8d7276591309f22)
-
-### a2xgames
-#### 2015.09 ~ 2016.03
-- [3D 수집형 RPG 클라이언트 개발](https://www.evernote.com/shard/s657/sh/1ac170c9-12d5-41e6-a344-22b8f4ca1835/ad3ce54d102bd5721b06539233780191)
-
-### 파티게임즈
-#### 2016.03 ~ 2018.03
-1. [포커페이스 for kakao 개발](https://www.evernote.com/shard/s657/sh/b6925819-7956-4c6e-aadc-0ff9ed2b311b/0bae1ccc538a263cf96b36df088c739e)
-2. [아이러브파스타 for kakao 개발](https://www.evernote.com/shard/s657/sh/bc34ec6d-f21d-46e0-bbd1-f1e3352c4286/549b872a480aacbbf3bb0e840be729be)
-
-### 크래프톤(블루홀)
-#### 2018.04 ~
-- [PC MMORPG A:IR 모바일 프로젝트 클라이언트 개발](https://www.evernote.com/shard/s657/sh/1da24e1c-d271-4f6d-aff5-9436788ec072/6360bb3bbbc8e306e6d08ff76f84f266)
-#### 2019.09 ~
-- ALT팀 크로스플랫폼 UE4 MMORPG 클라이언트 개발
